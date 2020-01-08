@@ -1,8 +1,8 @@
 # SIMD Enhanced MIPS Instructions
 
 ## Authors
-Brian Nguyen
-Randy Thiem
+- Brian Nguyen
+- Randy Thiem
 
 ## Abstract
 The purpose of this project is to create our own Instruction Set Architecture (ISA) utilizing the Million Instructions Per Second (MIPS) ISA. Throughout this process, we will document each step which then will be combined into a Programmers Reference Manual. This project is designed with the intent to help people who want an in-depth understanding of computer architecture with the intent to further apply the knowledge learned to their work on software applications. We will be discussing the specific details surrounding registers and their applications, along with operands, data types, addressing modes, and binary instructions.
